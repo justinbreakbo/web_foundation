@@ -504,7 +504,7 @@ window.close();
 
 代码举例：
 
-```
+```hv
         var newWin = window.open("demo.html", "_blank", json);
         newWin.moveTo(500, 500);
 ```
